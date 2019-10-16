@@ -1,2 +1,3 @@
 # cpp-learning
-hacktober fest
+
+this is repo to learn c++ in small amount of time
